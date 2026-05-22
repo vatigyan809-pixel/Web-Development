@@ -1,0 +1,10 @@
+#one {
+    font-size: 30px;
+}
+#three {
+    font-size: 40px;
+}
+#four {
+    line-height: 50px;
+    text-transform: capitalize;
+}

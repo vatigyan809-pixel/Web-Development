@@ -1,0 +1,26 @@
+#box1 {
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    font-size: 10px;
+}
+#box2 {
+    height: 50px;
+    /* width: 50px; */
+    width:30%;
+    /* 30% means parent ke 100px ka 30% width hoga */
+    background-color: yellow;
+    margin-left: 10%;
+    /* font-size: 0.5em; */
+    /* font-size: 2em; */
+    /*  2em ka means two times of parent font size
+    if em hota to to equal hota parenr size ke */
+    font-size: 2rem;
+    /* height: 2vh; */
+    /* width:2vw */
+    /* rem mmeans hai ki jo hamari root size matlab html ki size hai pahle se head
+    ki size ke equal hoga
+    patent se koi matlab nahi hai 
+    
+    if hum agar vh(height) vw(width)  use karte hai to vo hamare window ya browser ki size ke hisaab se hoga*/
+}

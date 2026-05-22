@@ -1,0 +1,40 @@
+
+div {
+    height:100px;
+    background-color: pink;
+    width: 200px;
+    border-width: 6px;
+    border-style: solid;
+    border-color:aquamarine;
+    padding-left: 50px;
+    margin-bottom: 80px;
+     margin-top: 70px;
+}
+#one {
+height:100px;
+    background-color: rgb(56, 52, 53);
+    width: 200px;
+    border: 6px dotted violet;
+    /* use of border in short form */
+}
+h1 {
+    height:100px;
+    background-color: rgb(92, 79, 175);
+    width: 100px;
+    border: 6px solid violet;
+    /* border-radius: 6px; */
+    /* padding-left: 50px; */
+    /* padding-top: 40px; */
+    /* padding-right: 50; */
+    /* padding: 50px; */
+    /* even there are usein all type like that top ,left, roght,bottom */
+    padding: 30px 40px 50px 50px;
+    /* first is top and second is right 3rd is bottom and last is left */
+    /* margin-top: 70px; */
+     /* margin-bottom: 80px; */
+    /* It is a deistance  between two box such as top and bootom  */
+    /* margin: 50px; */
+    /* almost same syntax of padding and margin */
+    margin: 40px 50px 45px 39px;
+   
+}

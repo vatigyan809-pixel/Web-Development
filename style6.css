@@ -1,0 +1,43 @@
+p {
+    text-align: left;
+}
+h1 {
+    text-align: center;
+    text-decoration:black underline;
+    /* text-decoration:overline */
+     /* text-decoration:overline */
+     font-weight: lighter;
+      /* haan to vo lighter ho jayega */
+}
+p {
+    background-color:darkgoldenrod;
+}
+h1 {
+    color: blue;
+}
+a {
+    text-decoration: none;
+    /* none ka use jab hota hai jab koi underline ya over nahi chahiye ya hatana hota hai  */
+}
+
+ #h2 {
+    font-weight: bold;
+    /* size ko dark karne ke liye use karte hai
+    lekinn by default vo pahle se hi heading dark hta hai */
+}
+#h4 {
+    font-weight: bolder;
+    /* isse thooda bahut change hota hai aur dark hota hai size */
+}
+#h3 {
+    font-weight: lighter;
+    /* haan to vo lighter ho jayega */
+    /* bold and lighter ki jagah per hum 100(lighter)se 900 (dark)
+    keliye hota hai */
+}
+#one {
+    font-family:Arial ;
+}
+#two {
+    font-family: 'Segoe UI';
+}

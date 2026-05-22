@@ -1,0 +1,44 @@
+/* div { */
+    /* background-color: aqua; */
+    /* display:inline; */
+/* } */
+#one {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    padding: 25px;
+    margin: 25px;
+    
+    
+}
+#two {
+    background-color: green;
+     width: 100px;
+    height: 100px;
+    display: inline-block;
+     padding: 25px;
+    margin: 25px;
+     
+   
+    
+}
+#three {
+    background-color: red;
+     width: 100px;
+    height: 100px;
+    display: inline-block; 
+     padding: 25px;
+    margin: 25px; 
+}
+/* when only use inline then not apply rest all property so use of inline-block then 
+rest all  property will be apply */
+/* #two {
+    display: none;
+} */
+ /* use of display none to remove box2 with all dacumentry and space matla isse hum 
+ two ke box remove ,kar  sakte hai space sab cheej remove ho jata hai */
+ /* #two {
+    visibility: hidden;
+ } */
+  /* iska karne per to remove ho jata lekin uska space rahta  */
